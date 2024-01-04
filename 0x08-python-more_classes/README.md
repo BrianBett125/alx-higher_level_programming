@@ -1,1 +1,1 @@
-project 0x08. Python - More Classes and Objects
+This is my first hello, world project in python
